@@ -1,0 +1,6 @@
+{
+  "name": "MediMart – Smart Medicine Delivery Platform",
+  "description": "On-demand medicine ordering, prescription upload with licensed pharmacist verification, smart dose reminders & refill alerts, pharmacy inventory control, and live delivery partner tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
